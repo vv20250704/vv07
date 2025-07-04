@@ -12,4 +12,4 @@
 同时，优化用户体验，如提高网站加载速度和移动端适配，也有助于提升排名。最后，确保遵守法律法规，避免发布违反平台规定的内容。
 通过这些方法，你可以在合规的框架下有效提升排名。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vv20250704/vv07 ）</span>
